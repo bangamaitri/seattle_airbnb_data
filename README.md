@@ -26,7 +26,7 @@ The notebook available here(proj1_airbnbdata) showcases work related to the abov
 
 
 ### Results
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available [here](https://maitribanga.medium.com/finding-accomodation-in-airbnb-seattle-b41a6215a117).
 
 ### Licensing, Authors, Acknowledgements
 You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle). Otherwise, feel free to use the code here as you would like!
